@@ -4,7 +4,9 @@
 
 Welcome to Versolyne! We are hard at work building something. Stay tuned for updates and get ready to experience the future of SaaS solutions.
 
-<iframe src="https://giphy.com/embed/0jzKx0JIwHHZ404zrq" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dc-teaser-comic-book-0jzKx0JIwHHZ404zrq">via GIPHY</a></p>
+<div style="text-align: center;">
+  <iframe src="https://giphy.com/embed/0jzKx0JIwHHZ404zrq" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
 
 ---
 
