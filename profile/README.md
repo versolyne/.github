@@ -1,12 +1,18 @@
-## Hi there 👋
+# ![Versolyne Logo](https://www.versolyne.com/favicon.ico) Versolyne
 
-<!--
+### Coming Soon!
 
-**Here are some ideas to get you started:**
+Welcome to Versolyne! We are hard at work building something amazing. Stay tuned for updates and get ready to experience the future of SaaS solutions.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![Coming Soon](https://via.placeholder.com/800x400?text=Coming+Soon)
+
+---
+
+For more information, visit our [website](https://www.versolyne.com) or follow us on social media:
+
+- **Instagram:** [@versolyne](https://www.instagram.com/versolyne)
+- **Twitter/X:** [@versolyne](https://www.twitter.com/versolyne)
+
+You can also reach us via email at [contact@versolyne.com](mailto:contact@versolyne.com).
+
+Stay tuned for updates!
