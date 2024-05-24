@@ -2,9 +2,9 @@
 
 ### Coming Soon!
 
-Welcome to Versolyne! We are hard at work building something. Stay tuned for updates and get ready to experience the future of SaaS solutions.
+Welcome to Versolyne! We are hard at work building something. Stay tuned for updates.
 
-![Versolyne Teaser](https://media.giphy.com/media/0jzKx0JIwHHZ404zrq/giphy.gif)
+![Coming Soon GIF](https://media.giphy.com/media/0jzKx0JIwHHZ404zrq/giphy.gif)
 
 ---
 
@@ -13,10 +13,10 @@ For more information, visit our [website](https://www.versolyne.com) or follow u
 - **Instagram:** [@versolyne](https://www.instagram.com/versolyne)
 - **Twitter/X:** [@versolyne](https://www.twitter.com/versolyne)
 
-You can also reach us via email at [contact@versolyne.com](mailto:contact@versolyne.com).
+You can also reach us via email at [hi@versolyne.com](mailto:hi@versolyne.com).
 
 Stay tuned for updates!
 
-<div style="text-align: center;">
+<div style="text-align: center; width: '100vw'; display: 'flex'; justify-content:'center';">
   <img src="https://www.versolyne.com/favicon.ico" alt="Versolyne Logo" style="display: block; margin: auto;" />
 </div>
