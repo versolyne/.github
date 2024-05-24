@@ -13,10 +13,6 @@ For more information, visit our [website](https://www.versolyne.com) or follow u
 - **Instagram:** [@versolyne](https://www.instagram.com/versolyne)
 - **Twitter/X:** [@versolyne](https://www.twitter.com/versolyne)
 
-You can also reach us via email at [hi@versolyne.com](mailto:hi@versolyne.com).
+Want to contribute? We'd love to have you onboard! Reach out to us via email at [hi@versolyne.com](mailto:hi@versolyne.com) for more details on how you can get involved.
 
 Stay tuned for updates!
-
-<div style="text-align: center; width: '100vw'; display: 'flex'; justify-content:'center';">
-  <img src="https://www.versolyne.com/favicon.ico" alt="Versolyne Logo" style="display: block; margin: auto;" />
-</div>
