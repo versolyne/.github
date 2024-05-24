@@ -4,9 +4,7 @@
 
 Welcome to Versolyne! We are hard at work building something. Stay tuned for updates and get ready to experience the future of SaaS solutions.
 
-<div style="text-align: center;">
-  <iframe src="https://giphy.com/embed/0jzKx0JIwHHZ404zrq" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
+![Versolyne Teaser](https://media.giphy.com/media/0jzKx0JIwHHZ404zrq/giphy.gif)
 
 ---
 
