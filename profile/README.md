@@ -1,4 +1,4 @@
-# ![Versolyne Logo](https://www.versolyne.com/favicon.ico) Versolyne
+# Versolyne
 
 ### Coming Soon!
 
@@ -16,3 +16,7 @@ For more information, visit our [website](https://www.versolyne.com) or follow u
 You can also reach us via email at [contact@versolyne.com](mailto:contact@versolyne.com).
 
 Stay tuned for updates!
+
+<div style="text-align: center;">
+  <img src="https://www.versolyne.com/favicon.ico" alt="Versolyne Logo" />
+</div>
